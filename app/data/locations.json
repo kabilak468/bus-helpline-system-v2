@@ -1,0 +1,105 @@
+{
+    "locations": [
+        {
+            "id": "gandhipuram",
+            "name": "Gandhipuram",
+            "latitude": 11.0168,
+            "longitude": 76.9558,
+            "aliases": [
+                "gandhipuram",
+                "gandhi puram",
+                "gandhi puram bus stand"
+            ]
+        },
+        {
+            "id": "ganapathy",
+            "name": "Ganapathy",
+            "latitude": 11.0446,
+            "longitude": 76.9714,
+            "aliases": [
+                "ganapathy",
+                "ganapathi",
+                "ganapathy bus stop"
+            ]
+        },
+        {
+            "id": "prozone",
+            "name": "Prozone Mall",
+            "latitude": 11.0397,
+            "longitude": 76.9907,
+            "aliases": [
+                "prozone",
+                "prozone mall",
+                "pro zone"
+            ]
+        },
+        {
+            "id": "saravanampatti",
+            "name": "Saravanampatti",
+            "latitude": 11.0812,
+            "longitude": 76.9986,
+            "aliases": [
+                "saravanampatti",
+                "saravanampaty",
+                "saravanampatti bus stop",
+                "saravana patti"
+            ]
+        },
+        {
+            "id": "kgisl",
+            "name": "KGISL",
+            "latitude": 11.0799,
+            "longitude": 77.0025,
+            "aliases": [
+                "kgisl",
+                "kgisl campus",
+                "kgisl institute"
+            ]
+        },
+        {
+            "id": "kct",
+            "name": "Kumaraguru College of Technology",
+            "latitude": 11.0784,
+            "longitude": 76.9989,
+            "aliases": [
+                "kct",
+                "kumaraguru",
+                "kumaraguru college",
+                "kumaraguru college of technology"
+            ]
+        },
+        {
+            "id": "sns",
+            "name": "SNS",
+            "latitude": 11.0727,
+            "longitude": 76.9789,
+            "aliases": [
+                "sns",
+                "sns college",
+                "sns college of technology"
+            ]
+        },
+        {
+            "id": "vellakinar",
+            "name": "Vellakinar",
+            "latitude": 11.0737,
+            "longitude": 76.9555,
+            "aliases": [
+                "vellakinar",
+                "vellakinaru",
+                "vellakinar bus stop"
+            ]
+        },
+        {
+            "id": "thudiyalur",
+            "name": "Thudiyalur",
+            "latitude": 11.0795,
+            "longitude": 76.9402,
+            "aliases": [
+                "thudiyalur",
+                "thudiyaloor",
+                "thudiyalur bus stop"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "routes": [
+        {
+            "bus_number": "111",
+            "route_type": "loop",
+            "start": "gandhipuram",
+            "end": "gandhipuram",
+            "stops": [
+                "gandhipuram",
+                "ganapathy",
+                "prozone",
+                "saravanampatti",
+                "kgisl",
+                "kct",
+                "sns",
+                "vellakinar",
+                "thudiyalur"
+            ]
+        }
+    ]
+}
